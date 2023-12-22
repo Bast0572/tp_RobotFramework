@@ -1,0 +1,27 @@
+{"level":30,"time":"2023-12-22T08:15:05.705Z","pid":9836,"hostname":"LAPTOP-11S4B09J","msg":"Listening on 59648"}
+{"level":30,"time":"2023-12-22T08:15:05.918Z","pid":9836,"hostname":"LAPTOP-11S4B09J","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-22T08:15:05.919Z","pid":9836,"hostname":"LAPTOP-11S4B09J","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-22T08:15:05.925Z","pid":9836,"hostname":"LAPTOP-11S4B09J","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-22T08:15:05.925Z","pid":9836,"hostname":"LAPTOP-11S4B09J","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (C:\Users\gaudi\Travail\Gherkin\BeginnersGuide-release-learn-it-b3\.venv\Lib\site-packages\Browser\wrapper\index.js:9968:15)
+    at PlaywrightServer.getActiveBrowser (C:\Users\gaudi\Travail\Gherkin\BeginnersGuide-release-learn-it-b3\.venv\Lib\site-packages\Browser\wrapper\index.js:10588:59)
+    at PlaywrightServer.setTimeout (C:\Users\gaudi\Travail\Gherkin\BeginnersGuide-release-learn-it-b3\.venv\Lib\site-packages\Browser\wrapper\index.js:10838:57)
+    at handleUnary (C:\Users\gaudi\Travail\Gherkin\BeginnersGuide-release-learn-it-b3\.venv\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:852:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+=============================================================
+{"level":30,"time":"2023-12-22T08:16:36.060Z","pid":9836,"hostname":"LAPTOP-11S4B09J","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-22T08:16:36.060Z","pid":9836,"hostname":"LAPTOP-11S4B09J","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (C:\Users\gaudi\Travail\Gherkin\BeginnersGuide-release-learn-it-b3\.venv\Lib\site-packages\Browser\wrapper\index.js:9968:15)
+    at PlaywrightServer.getActiveBrowser (C:\Users\gaudi\Travail\Gherkin\BeginnersGuide-release-learn-it-b3\.venv\Lib\site-packages\Browser\wrapper\index.js:10588:59)
+    at PlaywrightServer.setTimeout (C:\Users\gaudi\Travail\Gherkin\BeginnersGuide-release-learn-it-b3\.venv\Lib\site-packages\Browser\wrapper\index.js:10838:57)
+    at handleUnary (C:\Users\gaudi\Travail\Gherkin\BeginnersGuide-release-learn-it-b3\.venv\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:852:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+=============================================================
+{"level":30,"time":"2023-12-22T08:16:36.092Z","pid":9836,"hostname":"LAPTOP-11S4B09J","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-22T08:16:36.092Z","pid":9836,"hostname":"LAPTOP-11S4B09J","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-22T08:16:36.151Z","pid":9836,"hostname":"LAPTOP-11S4B09J","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2023-12-22T08:16:36.152Z","pid":9836,"hostname":"LAPTOP-11S4B09J","msg":"End of node method closeAllBrowsers"}
